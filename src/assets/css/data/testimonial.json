@@ -1,0 +1,32 @@
+{
+    "deni": {
+        "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "deni",
+        "rating": 5,
+        "content": "mantap sekali"
+    },
+    "reza": {
+        "image": "https://images.pexels.com/photos/810775/pexels-photo-810775.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author": "reza",
+        "rating": 3,
+        "content": "bisa juga  nii"
+    },
+    "riyan": {
+        "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author": "riyan",
+        "rating": 1,
+        "content": "tidak juga sih!"
+    },
+    "kholik": {
+        "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author": "kholik",
+        "rating": 4,
+        "content": "produknya bagus"
+    },
+    "Ujangkarbu": {
+        "image": "https://images.pexels.com/photos/834863/pexels-photo-834863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "ucok",
+        "rating": 4,
+        "content": "boleh lahh !"
+    }
+}
